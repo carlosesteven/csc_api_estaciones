@@ -76,6 +76,9 @@ print()
 print(f"START - Running script at {time.strftime('%Y-%m-%d %H:%M:%S')}")
 print() 
 print() 
+print(f"START - The script will be executed in {delay_time} minute(s).")
+print() 
+print() 
 
 while True:
     schedule.run_pending()
