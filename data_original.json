@@ -1,0 +1,1911 @@
+{
+  "status": 1,
+  "stateData": [
+    {
+      "locationName": "Cali",
+      "locationId": "Cali",
+      "searchType": "cityId",
+      "cityName": "Cali",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "formatdate": "04 Jun 2024, 07:27pm",
+      "timeago": null,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 24,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "AQI-IN"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 56,
+          "senDevId": "aqi",
+          "sensorUnit": "AQI-US"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 204,
+          "senDevId": "co",
+          "sensorUnit": "ppm"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 14,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 95,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 5,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 8,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 18,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        }
+      ]
+    }
+  ],
+  "Locations": [
+    {
+      "locationName": "Canaveralejo",
+      "locationId": "13318",
+      "searchType": "locationId",
+      "lat": "3.4571277777778",
+      "lon": "-76.502302777778",
+      "timeStamp": "1717469527",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Pance",
+      "locationId": "13323",
+      "searchType": "locationId",
+      "lat": "3.3779111111111",
+      "lon": "-76.533811111111",
+      "timeStamp": "1717469531",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Base Aerea Acuaparque",
+      "locationId": "13324",
+      "searchType": "locationId",
+      "lat": "3.4172027777778",
+      "lon": "-76.494736111111",
+      "timeStamp": "1717469535",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 20,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 5,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 10,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 185,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 19,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 95,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Compartir",
+      "locationId": "13319",
+      "searchType": "locationId",
+      "lat": "3.3053388888889",
+      "lon": "-76.532580555556",
+      "timeStamp": "1717469545",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 21,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 10,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 237,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 95,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "La Flora",
+      "locationId": "13322",
+      "searchType": "locationId",
+      "lat": "3.4905138888889",
+      "lon": "-76.521225",
+      "timeStamp": "1717469552",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 22,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 254,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 96,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 16,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "La Ermita",
+      "locationId": "13321",
+      "searchType": "locationId",
+      "lat": "3.4554694444444",
+      "lon": "-76.530991666667",
+      "timeStamp": "1717469559",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Univalle",
+      "locationId": "13326",
+      "searchType": "locationId",
+      "lat": "3.4283888888889",
+      "lon": "-76.4667",
+      "timeStamp": "1717469560",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 20,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 5,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 10,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 185,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 19,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 95,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Era Obrero",
+      "locationId": "13320",
+      "searchType": "locationId",
+      "lat": "3.4504194444444",
+      "lon": "-76.522266666667",
+      "timeStamp": "1717469562",
+      "updated_at": "04 Jun 2024, 08:22am",
+      "timeago": "51 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Transitoria",
+      "locationId": "13325",
+      "searchType": "locationId",
+      "lat": "3.4153888888889",
+      "lon": "-76.549347222222",
+      "timeStamp": "1717470599",
+      "updated_at": "04 Jun 2024, 08:39am",
+      "timeago": "34 minutes ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle Del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 70 Norte",
+      "locationId": "-350872",
+      "searchType": "locationId",
+      "lat": "3.486",
+      "lon": "-76.496",
+      "timeStamp": "1717508866",
+      "updated_at": "04 Jun 2024, 07:17pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 22,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 254,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 96,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 16,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 13D",
+      "locationId": "-250198",
+      "searchType": "locationId",
+      "lat": "3.399",
+      "lon": "-76.534",
+      "timeStamp": "1717508866",
+      "updated_at": "04 Jun 2024, 07:17pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 33H",
+      "locationId": "-244447",
+      "searchType": "locationId",
+      "lat": "3.436",
+      "lon": "-76.507",
+      "timeStamp": "1717508867",
+      "updated_at": "04 Jun 2024, 07:17pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 3D",
+      "locationId": "-250204",
+      "searchType": "locationId",
+      "lat": "3.399",
+      "lon": "-76.548",
+      "timeStamp": "1717497546",
+      "updated_at": "04 Jun 2024, 05:44am",
+      "timeago": "3 hours ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 5,
+      "airComponents": [
+        {
+          "sensorName": "pm25",
+          "sensorData": 11,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 21,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 100,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 18,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "AQI-IN"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 46,
+          "senDevId": "aqi",
+          "sensorUnit": "AQI-US"
+        }
+      ]
+    },
+    {
+      "locationName": "Carrera 83C",
+      "locationId": "-242974",
+      "searchType": "locationId",
+      "lat": "3.384",
+      "lon": "-76.517",
+      "timeStamp": "1717509242",
+      "updated_at": "04 Jun 2024, 07:24pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 18",
+      "locationId": "-254464",
+      "searchType": "locationId",
+      "lat": "3.398",
+      "lon": "-76.526",
+      "timeStamp": "1717509368",
+      "updated_at": "04 Jun 2024, 07:26pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 65 Norte",
+      "locationId": "-249310",
+      "searchType": "locationId",
+      "lat": "3.485",
+      "lon": "-76.503",
+      "timeStamp": "1717509425",
+      "updated_at": "04 Jun 2024, 07:27pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 22,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 254,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 96,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 16,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Avenida 2A Norte",
+      "locationId": "-249307",
+      "searchType": "locationId",
+      "lat": "3.486",
+      "lon": "-76.504",
+      "timeStamp": "1717509439",
+      "updated_at": "04 Jun 2024, 07:27pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 22,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 254,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 96,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 16,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Carrera 5 Norte",
+      "locationId": "-250186",
+      "searchType": "locationId",
+      "lat": "3.482",
+      "lon": "-76.503",
+      "timeStamp": "1717509440",
+      "updated_at": "04 Jun 2024, 07:27pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 23,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 55,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 14,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 22,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 254,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 96,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 16,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 3 Oeste",
+      "locationId": "-351337",
+      "searchType": "locationId",
+      "lat": "3.446",
+      "lon": "-76.543",
+      "timeStamp": "1717509477",
+      "updated_at": "04 Jun 2024, 07:27pm",
+      "timeago": null,
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 13,
+      "airComponents": [
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 25,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "IN-AQI"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 57,
+          "senDevId": "aqi",
+          "sensorUnit": "US-AQI"
+        },
+        {
+          "sensorName": "pm25",
+          "sensorData": 15,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "pm10",
+          "sensorData": 19,
+          "senDevId": "pm10",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "so2",
+          "sensorData": 1,
+          "senDevId": "so2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "no2",
+          "sensorData": 6,
+          "senDevId": "no2",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "o3",
+          "sensorData": 9,
+          "senDevId": "o3",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "co",
+          "sensorData": 220,
+          "senDevId": "co",
+          "sensorUnit": "ppb"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 18,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 94,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "dew",
+          "sensorData": 15,
+          "senDevId": "dew",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "wind",
+          "sensorData": 1,
+          "senDevId": "wind",
+          "sensorUnit": ""
+        },
+        {
+          "sensorName": "pressure",
+          "sensorData": 1022,
+          "senDevId": "pressure",
+          "sensorUnit": ""
+        }
+      ]
+    },
+    {
+      "locationName": "Calle 3",
+      "locationId": "-244453",
+      "searchType": "locationId",
+      "lat": "3.4450000000000003",
+      "lon": "-76.539",
+      "timeStamp": "1717510030",
+      "updated_at": "04 Jun 2024, 09:12am",
+      "timeago": "50 seconds ago ",
+      "cityName": "Cali",
+      "source": "World Air Quality Index Project",
+      "sourceUrl": "https://waqi.info",
+      "stateName": "Valle del Cauca",
+      "countryName": "Colombia",
+      "sensorcount": 5,
+      "airComponents": [
+        {
+          "sensorName": "pm25",
+          "sensorData": 19.7,
+          "senDevId": "pm25",
+          "sensorUnit": "µg/m³"
+        },
+        {
+          "sensorName": "t",
+          "sensorData": 21,
+          "senDevId": "t",
+          "sensorUnit": "°C"
+        },
+        {
+          "sensorName": "h",
+          "sensorData": 100,
+          "senDevId": "h",
+          "sensorUnit": "%"
+        },
+        {
+          "sensorName": "AQI-IN",
+          "sensorData": 33,
+          "senDevId": "AQI-IN",
+          "sensorUnit": "AQI-IN"
+        },
+        {
+          "sensorName": "aqi",
+          "sensorData": 68,
+          "senDevId": "aqi",
+          "sensorUnit": "AQI-US"
+        }
+      ]
+    }
+  ]
+}
