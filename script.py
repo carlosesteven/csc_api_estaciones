@@ -22,17 +22,26 @@ if response.status_code == 200:
         location_name = location.get('locationName')
         lat = location.get('lat')
         lon = location.get('lon')
+        timestamp = location.get('timeStamp')
+        locationId = location.get('locationId')
+        updated_at = location.get('updated_at')
+        timeago = location.get('timeago')
         air_components = location.get('airComponents', [])
         
         print(f"Location Name: {location_name}")
         print(f"Latitude: {lat}")
         print(f"Longitude: {lon}")
+        print(f"LocationId: {locationId}")
+        print(f"TimeStamp: {timestamp}")
+        print(f"updated_at: {updated_at}")
+        print(f"timeago: {timeago}")
+        
         print("Air Components:")
         for component in air_components:
             sensor_name = component.get('sensorName')
             sensor_data = component.get('sensorData')
             sensor_unit = component.get('sensorUnit')
             print(f"  - {sensor_name}: {sensor_data} {sensor_unit}")
-        print()  # Línea en blanco para separar las ubicaciones
+        print()  
 else:
     print(f"Error: {response.status_code} - {response.text}")
