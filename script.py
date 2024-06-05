@@ -10,7 +10,7 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-# Delay timer in minutes
+# Tiempo de espera para consultar los datos del API nuevamente
 delay_time = 2
 
 # Diccionario para almacenar el último timestamp de cada ubicación
