@@ -18,7 +18,6 @@ last_timestamps = {}
 
 def check_api_updates():
     response = requests.get(url, headers=headers)
-    no_changes = True
 
     # Verificar si la solicitud fue exitosa
     if response.status_code == 200:
@@ -37,34 +36,27 @@ def check_api_updates():
             updated_at = location.get('updated_at')
             timeago = location.get('timeago')
             
-            air_components = location.get('airComponents', [])
+            #air_components = location.get('airComponents', [])
             topic_mqtt = "scraping/cali/station/{}".format(locationId)
             
             # Si la ubicación no está en last_timestamps o el timestamp ha cambiado
             if locationId not in last_timestamps or last_timestamps[locationId] != timestamp:
-                last_timestamps[locationId] = timestamp
-                no_changes = False
-                
+                last_timestamps[locationId] = timestamp                
                 # Imprimir datos
-                print(f"Location Name: {location_name}")
+                print(f"Name: {location_name}")
                 print(f"Latitude: {lat}")
                 print(f"Longitude: {lon}")
                 print(f"LocationId: {locationId}")
                 print(f"TimeStamp: {timestamp}")
-                print(f"updated_at: {updated_at}")
-                print(f"timeago: {timeago}")
-                print(f"topic: {topic_mqtt}")
-                print(f"json: {location}")
-                print()            
-
-        if no_changes:
-            print(f"NO - Changes detected in timestamps at {time.strftime('%Y-%m-%d %H:%M:%S')}")
-            print() 
-            print() 
-        else:
-            print(f"YES - Changes detected in timestamps at {time.strftime('%Y-%m-%d %H:%M:%S')}")
-            print() 
-            print() 
+                print(f"Updated At: {updated_at}")
+                print(f"Timeago: {timeago}")
+                print(f"TOPIC: {topic_mqtt}")
+                print(f"JSON: {location}")
+                print()  
+        print()                   
+        print(f"Executed script at: {time.strftime('%Y-%m-%d %H:%M:%S')}")
+        print() 
+        print() 
     else:
         print(f"Error: {response.status_code} - {response.text}")
 
@@ -76,7 +68,10 @@ print()
 print(f"START - Running script at {time.strftime('%Y-%m-%d %H:%M:%S')}")
 print() 
 print() 
-print(f"LOG - The script will be executed in {delay_time} minute(s)")
+
+check_api_updates() 
+
+print(f"LOG - This script will run every {delay_time} minute(s)")
 print() 
 print() 
 
