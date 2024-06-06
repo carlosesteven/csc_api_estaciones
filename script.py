@@ -60,7 +60,7 @@ def check_api_updates():
     else:
         print(f"Error: {response.status_code} - {response.text}")
 
-# Programar la tarea para que se ejecute cada 5 minutos
+# Programar la tarea para que se ejecute cada N minutos
 schedule.every(delay_time).minutes.do(check_api_updates)
 
 print() 
@@ -72,7 +72,6 @@ print()
 check_api_updates() 
 
 print(f"LOG - This script will run every {delay_time} minute(s)")
-print() 
 print() 
 
 while True:
