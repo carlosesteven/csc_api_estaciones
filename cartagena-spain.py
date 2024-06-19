@@ -37,7 +37,7 @@ def check_api_updates():
             timeago = location.get('timeago')
             
             #air_components = location.get('airComponents', [])
-            topic_mqtt = "scraping/cali/station/{}".format(locationId)
+            topic_mqtt = "scraping/cartagena/station/{}".format(locationId)
             
             # Si la ubicación no está en last_timestamps o el timestamp ha cambiado
             if locationId not in last_timestamps or last_timestamps[locationId] != timestamp:
