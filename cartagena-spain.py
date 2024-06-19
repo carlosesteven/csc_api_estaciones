@@ -6,12 +6,12 @@ import schedule
 url = "https://api.aqi.in/api/v1/getMonitorsByCity"
 
 headers = {
-    'cityname': 'Cali',
+    'cityname': 'Cartagena',
     'Content-Type': 'application/json'
 }
 
 # Tiempo de espera para consultar los datos del API nuevamente
-delay_time = 2
+delay_time = 10
 
 # Diccionario para almacenar el último timestamp de cada ubicación
 last_timestamps = {}
